@@ -14,7 +14,7 @@ Please feel free to share the link to your repository from assignment 1 in the t
 | Name of/Link to Contributor 1 | Name of/Link to Contributor 2 | Link to Repository |
 |----|----|----|
 | https://github.com/ChristopherCosler | https://github.com/LisaKatharina | https://github.com/ChristopherCosler/CSSR_Assignement1 |
-| | | |
+|[Nataria](https://github.com/natalia-alvarado)|[Noriko](https://github.com/magaranoriko)|[our repo](https://github.com/magaranoriko/Assignment1/tree/master/session3) |
 | | | |
 | | | |
 | | | |
@@ -27,7 +27,7 @@ Please feel free to share the link to your repository for assignment 2 in the ta
 | Name of/Link to Contributor 1 | Name of/Link to Contributor 2 | Link to Repository |
 |----|----|----|
 | https://github.com/ChristopherCosler | https://github.com/LisaKatharina | https://github.com/ChristopherCosler/CSSR_ResearchProposal |
-| | | |
+|[Claire](https://github.com/bctclc) |[Noriko](https://github.com/magaranoriko/) | [our repo](https://github.com/bctclc/Collaborative-Data-Analysis-Assignment2)|
 | | | |
 | | | |
 | | | |
