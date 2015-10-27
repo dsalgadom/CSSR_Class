@@ -6,3 +6,10 @@ Here, the class of this year's <a href="https://github.com/HertieDataScience/Syl
 ## Instructions and background information on this repository
 
 This repository contains three RMD files where every pair in the the class can add the links to their repositories for assignment 1, 2 and 3, respectively. 
+
+## Folder and file structure
+
+    ├── Assignment 1.rmd         # Contains list of repos for assignment 1
+    ├── Assignment 2.rmd         # Contains list of repos for assignment 2
+    ├── Assignment 3.rmd         # Contains list of repos for assignment 3
+    ├── Readme.md                     
