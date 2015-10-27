@@ -9,6 +9,6 @@ This repository contains one RMD file where every couple can add the links to th
 
 ## Folder and file structure
 
-    ├── List of Links to Repo.rmd        # Contains list of links to repos for assignments 1 - 3
-    ├── List of Links to Repo.html       # Contains table of links to repos for assignments 1 - 3
+    ├── List of Links to Repos.rmd        # Contains list of links to repos for assignments 1 - 3
+    ├── List_of_Links_to_Repos.html       # Contains table of links to repos for assignments 1 - 3
     ├── Readme.md                     
